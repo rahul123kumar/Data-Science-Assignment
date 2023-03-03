@@ -1,0 +1,52 @@
+
+1. Python was developed by Guido van Rossum
+
+2. Python supports multi-paradigm programming language
+
+3. Yes, Python is case sensitive while dealing with identifiers
+
+4. Correct extension of python is .py
+
+5. Python is interpreted language
+
+6. Few blocks of code used to define in python:
+1) a module
+2) a function body
+3) a class definition
+
+7. # character is used for single line comment
+
+8. python_version()
+
+9. NA
+
+10. PIP: Preferred Installer Program
+
+11. Built-in functions:
+    int()
+    id()
+    input()
+    len()
+    list()
+
+12. Max possible length of an identifiers: 79 characters
+
+13. Benefits of using python:
+    1) Data Science
+    2) Machine Learning
+    3) Web Development
+    4) Data Mining
+    5) Image Processing
+
+14.  In Python, memory is managed by the Python manager which determines where to put the application data in the memory
+
+15.  Installing python in windows:
+     1) Right-clicking This PC and going to Properties.
+     2) Clicking on the Advanced system settings in the menu on the left.
+     3) Clicking on the Environment Variables button o n the bottom right.
+     4) In the System variables section, selecting the Path variable and clicking on Edit.
+        The next screen will show all the directories that are currently a part of the PATH variable.
+     5) Clicking on New and entering Python’s install directory.
+
+16. Yes, Indentation is required in python.
+
